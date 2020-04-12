@@ -6,7 +6,7 @@
 
 React Native concepts for the **second week(F 02)** of Bootcamp GoStack 11.
 
-Project completed on 11/04/2020.
+Project completed on 12/04/2020.
 
 ## :gear: Getting Started
 
