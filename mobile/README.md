@@ -4,7 +4,7 @@
 
 ## :rocket: Mobile with <span style="color:#61dafb;">React Native</span>
 
-React Native concepts for the **second week(F 02)** of Bootcamp GoStack 11.
+React Native concepts for the **first week(F 02)** of Bootcamp GoStack 11.
 
 Project completed on 12/04/2020.
 
